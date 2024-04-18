@@ -1,5 +1,5 @@
 # ARJSS
-Adversarial Regularized Deep Embedding Clustering via Joint Self-Supervised Networks
+Adversarially  Deep Interative-fused Embedding Clustering via Joint Self-Supervised Networks
 
 # Code
 ```
